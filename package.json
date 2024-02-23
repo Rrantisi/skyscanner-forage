@@ -5,6 +5,11 @@
   "dependencies": {
     "@skyscanner/backpack-react-scripts": "11.0.1"
   },
+  "backpack-react-scripts": {
+    "babelIncludePrefixes": [
+      "@skyscanner[\\/]backpack-web[\\/\bpk-"
+    ]
+  },  
   "scripts": {
     "start": "react-scripts start",
     "start-ssr": "react-scripts start-ssr",
