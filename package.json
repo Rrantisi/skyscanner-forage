@@ -7,7 +7,7 @@
   },
   "backpack-react-scripts": {
     "babelIncludePrefixes": [
-      "@skyscanner[\\/]backpack-web[\\/\bpk-"
+      "@skyscanner[\\/]backpack-web[\\/]pk-"
     ]
   },  
   "scripts": {
